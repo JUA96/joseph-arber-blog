@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1609171369093.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3281049083",
+    "id" : "BEDC054",
+    "lastKnownWriteTime" : 1609171363,
+    "last_content_update" : 1609171363,
+    "path" : "~/Documents/DS/Portfolio-Blog/Distill-Blog/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
