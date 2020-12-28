@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4186874155",
+    "hash" : "0",
     "id" : "DF13BA93",
-    "lastKnownWriteTime" : 1609171363,
-    "last_content_update" : 1609171363,
+    "lastKnownWriteTime" : 1609175670,
+    "last_content_update" : 1609175670835,
     "path" : "~/Documents/DS/Portfolio-Blog/Distill-Blog/_posts/welcome/welcome.Rmd",
     "project_path" : "_posts/welcome/welcome.Rmd",
     "properties" : {
+        "cursorPosition" : "10,11",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
